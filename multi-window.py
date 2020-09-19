@@ -57,5 +57,4 @@ class TestWindows(Base):
     self.driver.find_element_by_id('TANGRAM__PSP_11__submit').click()
 
 
-
     time.sleep(3)
